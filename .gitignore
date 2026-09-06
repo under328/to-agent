@@ -1,0 +1,12 @@
+# 与学习基地无关的本地内容
+AgentWord/
+
+# 依赖与环境（作品项目各自的 node_modules 也会被忽略）
+node_modules/
+.env
+.env.*
+*.local
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
