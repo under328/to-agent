@@ -10,8 +10,9 @@
 
 ### 生成记录
 
-- 2026-09-06 课程已生成：lessons/2026-09-07-env-setup.md（环境检查与配置）
-- 2026-09-06 课程已生成：lessons/2026-09-08-api-key-env.md（API Key 与 .env）
-- 2026-09-06 课程已生成：lessons/2026-09-09-ai-sdk-quickstart.md（AI SDK Quickstart）
-- 2026-09-06 课程已生成：lessons/2026-09-10-model-provider-prompt.md（模型/Provider/Prompt）
-- 2026-09-06 课程已生成：lessons/2026-09-11-modify-official-examples.md（改造示例实验课）
+- 2026-09-06 课程已生成（v1 基础版，已废除）：原 5 篇概念课被重制替换
+- 2026-09-06 任务卡已生成（v2 作品驱动）：lessons/2026-09-07-w1d1-scaffold-deploy.md（奠基+部署）
+- 2026-09-06 任务卡已生成（v2）：lessons/2026-09-08-w1d2-structured-output.md（结构化输出）
+- 2026-09-06 任务卡已生成（v2）：lessons/2026-09-09-w1d3-tool-calling-gitlog.md（git log + Tool Calling）
+- 2026-09-06 任务卡已生成（v2）：lessons/2026-09-10-w1d4-eval-harness.md（评测集）
+- 2026-09-06 任务卡已生成（v2）：lessons/2026-09-11-w1d5-streaming-ux-launch.md（流式 UX 收官）
