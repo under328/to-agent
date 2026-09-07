@@ -50,6 +50,7 @@ export async function readGitLog(repoPath: string, days = 7) {
 ### T3 · 可选 tool：searchCommits（15min）
 
 ```ts
+import { z } from 'zod'
 import { tool, stepCountIs } from 'ai'
 import { generateText } from 'ai'
 
