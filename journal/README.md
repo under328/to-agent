@@ -44,3 +44,17 @@
 - 2026-09-08 任务卡已生成：lessons/2026-09-23-w3d3-search-api.md（检索接口：手写余弦 + KNN 双实现）
 - 2026-09-08 任务卡已生成：lessons/2026-09-24-w3d4-citation-grounding.md（引用溯源 + 拒答阈值）
 - 2026-09-08 任务卡已生成：lessons/2026-09-25-w3d5-retrieval-eval.md（检索评测：hit@k/MRR + 参数调优）
+
+## 2026-W40（09-28 ~ 10-04）
+
+- **学了什么**：
+- **做了什么**：
+- **下周三件事**：
+
+### 生成记录
+
+- 2026-09-09 任务卡已生成：lessons/2026-09-28-w4d1-hybrid-search.md（混合检索：FTS5 trigram + RRF）
+- 2026-09-09 任务卡已生成：lessons/2026-09-29-w4d2-rerank.md（rerank 精排：listwise 重排）
+- 2026-09-09 任务卡已生成：lessons/2026-09-30-w4d3-failure-analysis.md（坏案例归因 + 幻觉治理清单）
+- 2026-09-09 任务卡已生成：lessons/2026-10-01-w4d4-app-integration.md（应用化：file: 协议集成 + 引用 UI）
+- 2026-09-09 任务卡已生成：lessons/2026-10-02-w4d5-deploy-and-article.md（部署三路线决策 + 文章草稿）
