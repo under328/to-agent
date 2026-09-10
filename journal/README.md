@@ -58,3 +58,17 @@
 - 2026-09-09 任务卡已生成：lessons/2026-09-30-w4d3-failure-analysis.md（坏案例归因 + 幻觉治理清单）
 - 2026-09-09 任务卡已生成：lessons/2026-10-01-w4d4-app-integration.md（应用化：file: 协议集成 + 引用 UI）
 - 2026-09-09 任务卡已生成：lessons/2026-10-02-w4d5-deploy-and-article.md（部署三路线决策 + 文章草稿）
+
+## 2026-W41（10-05 ~ 10-11）
+
+- **学了什么**：
+- **做了什么**：
+- **下周三件事**：
+
+### 生成记录
+
+- 2026-09-10 任务卡已生成：lessons/2026-10-05-w5d1-product-model.md（产品定义 + 数据模型 + 不做清单）
+- 2026-09-10 任务卡已生成：lessons/2026-10-06-w5d2-capture-pipeline.md（极速录入 + Bookmarklet 剪藏 + 去重）
+- 2026-09-10 任务卡已生成：lessons/2026-10-07-w5d3-auto-organize.md（异步整理管线 + 标签治理）
+- 2026-09-10 任务卡已生成：lessons/2026-10-08-w5d4-related-notes.md（增量向量化 + 相关推荐 + 一致性自检）
+- 2026-09-10 任务卡已生成：lessons/2026-10-09-w5d5-dogfood-launch.md（私有写入型部署哲学 + 狗粮启动）
