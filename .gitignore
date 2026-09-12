@@ -1,5 +1,6 @@
 # 与学习基地无关的本地内容
 AgentWord/
+tycoon/
 
 # 依赖与环境（作品项目各自的 node_modules 也会被忽略）
 node_modules/
